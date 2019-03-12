@@ -1,1 +1,1 @@
-https://gitpitch.com/Softrack-LLP/softrack-pitch-template/master
+https://gitpitch.com/alinaSib/softrack-gitpitch-architecture/master
