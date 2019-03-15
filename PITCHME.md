@@ -7,10 +7,10 @@
 
 ---
 
-## Спагетти-монстр
-- Google не позаботился о нас
+## God Activity Спагетти-монстр
+- Google ранее не заботился о нас
 - Делает ли это Android Framework?
-- God Activity
+- Спагетти-монстр
 
 +++?image=assets/images/Illustration_2.png&size=auto 100%
 
