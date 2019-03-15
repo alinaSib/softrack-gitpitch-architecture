@@ -1,18 +1,16 @@
----
+
 ## Архитектура Android приложений
 
 - Боль первых Android приложений
 - 4 золотых правила архитектуры Android приложений
-- Первая попытка: God Activity
-- Вторая попытка: MVP
-- Третья попытка: MVP + managers
+- The Clean Architecture
 
 ---
 
 ## Спагетти-монстр
 - Google не позаботился о нас
 - Делает ли это Android Framework?
-- (у)Божество Пастафарианцев
+- God Activity
 
 +++?image=assets/images/Illustration_2.png&size=auto 100%
 
