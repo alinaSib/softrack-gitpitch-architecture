@@ -26,3 +26,14 @@
 - Позволять создавать тестируемые компоненты
 
 +++?image=assets/images/Illustration_3.png&size=auto 100%
+
+---
+
+## The Clean Architecture
+
+- Независимость от фреймворков
+- Независимость от UI
+- Независимость от БД, Сети, утсройств
+- Тестируемость 
+
++++?image=assets/images/CleanArchitecture.jpg&size=auto 100%
