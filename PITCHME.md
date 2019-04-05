@@ -1,16 +1,13 @@
 
 ## Архитектура Android приложений
 
-- Боль первых Android приложений
+- Архитектура первых Android приложений
 - 4 золотых правила архитектуры Android приложений
 - The Clean Architecture
 
 ---
 
-## God Activity Спагетти-монстр
-- Google ранее не заботился о нас
-- Делает ли это Android Framework?
-- Спагетти-монстр
+## God Activity 
 
 +++?image=assets/images/Illustration_2.png&size=auto 100%
 
