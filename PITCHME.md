@@ -59,6 +59,8 @@ Model - View - Presenter
 
 ---?image=assets/images/CleanArchitecture.png&size=auto 100%
 
+---
+
 
 ## Ключевые понятия
 - The Dependency rule
