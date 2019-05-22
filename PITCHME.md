@@ -83,7 +83,7 @@ Model - View - Presenter
 
 ---?image=assets/images/Communication.png&size=auto 100%
 
----?image=assets/images/Ports.png&size=auto 100%
+
 
 
 
