@@ -57,25 +57,37 @@ Model - View - Presenter
 - Тестируемость
 
 
----?image=assets/images/CleanArchitecture.jpg&size=auto 100%
+---?image=assets/images/CleanArchitecture.png&size=auto 100%
+
+---
+
+## Ключевые понятия
+- The Dependency rule
+- Entities 
+- Use Cases
+- Interface Adapters
+- Frameworks and Drivers
+
+---?image=assets/images/DependecyRule.png&size=auto 100%
+
+---
+
+## Абстракция 
+
+---?image=assets/images/Abstraction.png&size=auto 100%
+
+---
+
+## Коммуникация между слоями (пеерсечение границ)
+
+---?image=assets/images/Communication.png&size=auto 100%
+
+---
+
+---?image=assets/images/Ports.png&size=auto 100%
+
+---
 
 ---
 
 
-## The Dependency rule
-
----
-
-## Entities 
-
----
-
-## Use Cases 
-
----
-
-## Interface Adapters
-
----
-
-## Frameworks and Drivers
