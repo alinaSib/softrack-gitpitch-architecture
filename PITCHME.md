@@ -83,6 +83,14 @@ Model - View - Presenter
 
 ---?image=assets/images/Communication.png&size=auto 100%
 
+---
+
+## Ссылки: 
+https://five.agency/android-architecture-part-1-every-new-beginning-is-hard/
+
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+
+
 
 
 
