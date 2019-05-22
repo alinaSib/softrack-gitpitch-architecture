@@ -11,12 +11,15 @@
 
 ---?image=assets/images/Illustration_2.png&size=auto 100%
 
+---
 
 ## 4 золотых правила архитектуры Android приложений
 
 ---
 
 ## 1. Удовлетворять интересы множества сторон
+
+---
 
 ---?image=assets/images/Illustration_3.png&size=auto 100%
 
@@ -27,10 +30,14 @@
 
 ## 3. Не зависеть от реального мира
 
+---
+
 ---?image=assets/images/Illustration_4.png&size=auto 100%
 
 
 ## 4. Позволять создавать тестируемые компоненты
+
+---
 
 ---?image=assets/images/Illustration_4.png&size=auto 100%
 
@@ -41,6 +48,7 @@
 - Независимость от UI
 - Независимость от БД, Сети, утсройств
 - Тестируемость 
+---
 
 
 ---?image=assets/images/CleanArchitecture.jpg&size=auto 100%
