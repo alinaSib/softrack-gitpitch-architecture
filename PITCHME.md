@@ -9,8 +9,6 @@
 
 ## God Activity 
 
----
-
 +++?image=assets/images/Illustration_2.png&size=auto 100%
 
 ---
@@ -20,8 +18,6 @@
 ---
 
 ## 1. Удовлетворять интересы множества сторон
-
----
 
 +++?image=assets/images/Illustration_3.png&size=auto 100%
 
@@ -33,16 +29,13 @@
 
 ## 3. Не зависеть от реального мира
 
----
-
 +++?image=assets/images/Illustration_4.png&size=auto 100%
 
 ---
 
 ## 4. Позволять создавать тестируемые компоненты
 
-
-+++?image=assets/images/Illustration_4.png&size=auto 100%
+?image=assets/images/Illustration_4.png&size=auto 100%
 
 ---
 
@@ -53,7 +46,6 @@
 - Независимость от БД, Сети, утсройств
 - Тестируемость 
 
----
 
 +++?image=assets/images/CleanArchitecture.jpg&size=auto 100%
 
