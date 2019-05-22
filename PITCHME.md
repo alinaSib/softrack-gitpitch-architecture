@@ -37,7 +37,7 @@
 
 ## 4. Позволять создавать тестируемые компоненты
 
----?image=assets/images/giphy-5.gif&size=auto 100%
+---?image=assets/images/giphy-5.gif&size=auto 50%
 
 ---
 
