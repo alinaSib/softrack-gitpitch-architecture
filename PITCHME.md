@@ -13,6 +13,13 @@
 
 ---
 
+## MVP
+Model - View - Presenter
+
+---?image=assets/images/MVP.png&size=auto 100%
+
+---
+
 ## 4 золотых правила архитектуры Android приложений
 
 ---
